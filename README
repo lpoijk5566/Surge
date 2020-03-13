@@ -2,7 +2,15 @@
 This is a ssr config repo which fork from lhie1
 
 [Rule]
-Keep maintaining SSR config for users.
+Keep maintaining SSR config for users. Please feel free to use it if you need it.
+You can submit issue to me as well, I will address them and update config asap.
 
 [RAW LINK]
 https://raw.githubusercontent.com/lpoijk5566/Surge/master/Shadowrocket.conf
+
+[Validation Result]
+1. iOS + ShadowRocket : Pass
+2. Android + SSR : Pass
+
+[TODO]
+So far, nothing
