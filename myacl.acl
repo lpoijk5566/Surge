@@ -1638,6 +1638,7 @@ fa8d5f2 6 days ago
 (^|\.)ec2-54-174-178-70\.computer-1\.amazonaws\.com$
 (^|\.)ec2-54-175-2-194\.computer-1\.amazonaws\.com$
 (^|\.)ec2-54-210-54-246\.computer-1\.amazonaws\.com$
+(^|\.)manhuaren\.com$
 
 # 国外域名
 ^.*\.hk$
